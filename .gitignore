@@ -1,0 +1,13 @@
+# Carpetas excluidas
+temp/
+tmp/
+
+# Archivos Ignorados
+*.txt
+*.png
+*.temp
+*.tmp
+*.swp
+
+
+
